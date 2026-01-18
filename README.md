@@ -16,13 +16,7 @@
   <!-- SECTIONS -->
   <div id="home" class="section">
     <h1>
-     Hello World!</h1>
-
-<p>
-![sukrumereyphoto](https://github.com/user-attachments/assets/65e47907-3d7f-4140-b336-2b19b9f6334a)
-
-</p>
-    
+     Hello World!</h1> 
     <p>This website of Sukru Merey is hosted on GitHub Pages.</p>
   </div>
 
