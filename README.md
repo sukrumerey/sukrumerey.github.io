@@ -30,7 +30,7 @@ Please see www.sukrumerey.com for more info!
 
   <div id="contact" class="section" style="display:none;">
     <h2>Contact</h2>
-    <p>Email: yourmail@example.com</p>
+    <p>Email: sukrumerey@gmail.com</p>
   </div>
 
   <script>
