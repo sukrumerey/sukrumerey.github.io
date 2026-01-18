@@ -17,6 +17,11 @@
   <div id="home" class="section">
     <h1>
      Hello World!</h1>
+
+<p>
+    <img src="![sukrumereyphoto](https://github.com/user-attachments/assets/cdd2d171-6016-4bb4-a895-07f3ac83d6ce)" width="220" height="200" />
+</p>
+    
     <p>This website of Sukru Merey is hosted on GitHub Pages.</p>
   </div>
 
