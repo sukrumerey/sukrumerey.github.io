@@ -19,7 +19,8 @@
      Hello World!</h1>
 
 <p>
-    <img src="![sukrumereyphoto](https://github.com/user-attachments/assets/cdd2d171-6016-4bb4-a895-07f3ac83d6ce)" width="220" height="200" />
+![sukrumereyphoto](https://github.com/user-attachments/assets/65e47907-3d7f-4140-b336-2b19b9f6334a)
+
 </p>
     
     <p>This website of Sukru Merey is hosted on GitHub Pages.</p>
