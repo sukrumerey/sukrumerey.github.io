@@ -30,7 +30,8 @@ Please see <a href="https://www.sukrumerey.com">Click here</a> for more info!
 
   <div id="contact" class="section" style="display:none;">
     <h2>Contact</h2>
-    <p>Email: sukrumerey@gmail.com</p>
+    <p>Email: <a href="mailto:sukrumerey@gmail.com">sukrumerey@gmail.com</a></p>
+
   </div>
 
   <script>
