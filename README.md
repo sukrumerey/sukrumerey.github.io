@@ -17,7 +17,7 @@
   <div id="home" class="section">
     <h1>
      Hello World!</h1>
-    <p>This website is hosted on GitHub Pages.</p>
+    <p>This website of Sukru Merey is hosted on GitHub Pages.</p>
   </div>
 
   <div id="about" class="section" style="display:none;">
