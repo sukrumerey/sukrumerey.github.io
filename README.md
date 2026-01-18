@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>My GitHub Website</title>
@@ -16,7 +15,9 @@
 
   <!-- SECTIONS -->
   <div id="home" class="section">
-    <h1>Hello World!</h1>
+    <h1>
+      ![sukrumereyphoto](https://github.com/user-attachments/assets/fc28bcb1-19ba-4875-b0b7-2f4f042ec0de)
+     Hello World!</h1>
     <p>This website is hosted on GitHub Pages.</p>
   </div>
 
